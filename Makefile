@@ -1,4 +1,4 @@
-.PHONY: test format
+.PHONY: test format install
 
 EXEC=main
 
@@ -7,3 +7,8 @@ format:
 
 test:
 	go test
+
+install:
+	go build -o todizer	cmd/main.go 
+	chmod +x todizer
+	cp todizer ~/go/bin
