@@ -1,6 +1,6 @@
 ## TODIZER
 
-**todizer** is a very basic utility that lets you build an **interactive todo list** from a list of sentences
+**todizer** is a very basic utility that helps you build an **interactive todo list** from a list of sentences
 stored in a file (the default file stdin). The state of the list can optionally be stored in an output file or
 printed in stdout by default.
 
@@ -30,3 +30,4 @@ That is all !
 
 ### Démo
 
+![](demo.mp4)
