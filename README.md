@@ -30,4 +30,5 @@ That is all !
 
 ### Démo
 
-![](demo.mp4)
+https://github.com/aristidebm/todizer/assets/57077043/975b2008-9cd2-4753-9d0a-00770017af3b
+
